@@ -1,4 +1,6 @@
-package com.dio.bancoDigital;
+package com.dio.bancoDigital.interfaceConta;
+
+import com.dio.bancoDigital.classes.Conta;
 
 public interface IConta {
 

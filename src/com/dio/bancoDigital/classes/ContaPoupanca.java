@@ -1,4 +1,4 @@
-package com.dio.bancoDigital;
+package com.dio.bancoDigital.classes;
 
 public class ContaPoupanca extends Conta{
 

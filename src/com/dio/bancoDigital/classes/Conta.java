@@ -1,9 +1,10 @@
-package com.dio.bancoDigital;
+package com.dio.bancoDigital.classes;
 
+import com.dio.bancoDigital.interfaceConta.IConta;
 import lombok.Data;
 
 @Data
-public abstract class Conta implements IConta{
+public abstract class Conta implements IConta {
 
     private static final int AGENCIA_PADRAO = 1;
     private static int SEQUENCIAL = 1;
